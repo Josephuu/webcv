@@ -1,0 +1,16 @@
+/* App-specific styles - minimal, most styles are in Tailwind */
+
+/* Ensure smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Prevent horizontal overflow */
+body {
+  overflow-x: hidden;
+}
+
+/* Canvas z-index handling */
+canvas {
+  display: block;
+}
