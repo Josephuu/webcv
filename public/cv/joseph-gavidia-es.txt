@@ -1,0 +1,59 @@
+Joseph Gavidia
+Administración Cloud | Microsoft Azure y automatización
+joseph.gavidiaa@gmail.com | +54 11 3888 4481 | Buenos Aires, Argentina
+https://linkedin.com/in/soporte-infraestructura-joseph-gavidia
+https://github.com/Josephuu
+
+Perfil profesional
+Administrador de sistemas SSR con trayectoria en soporte técnico, administración de infraestructura y automatización de tareas operativas. Experiencia en Microsoft Azure, Windows Server, Microsoft Entra ID y desarrollo de automatizaciones con Ansible y PowerShell. Entorno de trabajo con AKS/Kubernetes, Argo CD, Azure DevOps y repositorios Git/GitHub. Implementación de herramientas de uso compartido, integraciones con Azure Logic Apps y procesos de documentación asistida por IA. Orientado a administración cloud, con foco en estandarización operativa, transferencia de conocimiento y visibilidad del gasto.
+
+Experiencia profesional
+Sysadmin SSR — Yoizen
+Octubre de 2024–actualidad
+- Administración de recursos de cómputo y usuarios en Microsoft Entra ID, relevamiento de activos, seguimiento de incidentes y revisión de vulnerabilidades. Entorno de monitoreo del equipo: Grafana.
+- Aprovisionamiento y configuración de una VM en Azure para cargas Microsoft SQL Server, según requerimientos del DBA, con ajustes de capacidad y licenciamiento para acompañar una migración de workloads.
+- Implementación completa de SemaphoreUI mediante Helm y una base de datos externa. Desarrollo de playbooks Ansible para configuración y consulta de VMs, reinicios programados de sitios IIS y servicios, limpieza de logs y renovación de certificados, facilitando una operación centralizada y más estandarizada para el equipo.
+- Desarrollo y revisión de scripts PowerShell distribuidos mediante Azure VM Applications para instalar software y aplicar configuraciones durante el aprovisionamiento de VMs con Terraform, evitando una ejecución manual posterior de SemaphoreUI para esas tareas.
+- Implementación de GLPI sobre Docker y Linux como helpdesk corporativo, centralizando la carga de tickets. Configuración de SSO con Google, 2FA, formularios, permisos, SLAs y aprobaciones; integración mediante Azure Logic Apps, webhooks y API con Google Chat y creación de eventos en Google Calendar para upgrades autorizados.
+- Diseño y desarrollo de DIKS, un sistema de documentación de infraestructura asistido por IA que analiza repositorios y genera notas Markdown estandarizadas y enlazadas, con revisión humana y versionado en Git, facilitando la transferencia de conocimiento y la consulta autónoma.
+- Implementación de budgets segmentados y alertas al superar el 50% del presupuesto configurado en Azure, con notificaciones por correo mediante Action Groups, mejorando la visibilidad del gasto para el equipo.
+
+Sysadmin — INTER TIC
+Octubre de 2023–octubre de 2024
+- Configuración y mantenimiento de VMs Windows Server, con monitoreo de infraestructura mediante Checkmk.
+- Administración de altas, bajas y modificaciones de usuarios en Microsoft 365 y Microsoft Entra ID.
+- Configuración de Tango Software.
+
+Soporte técnico N1/N2 — EPIDATA
+Septiembre de 2021–octubre de 2023
+- Soporte técnico remoto y presencial a usuarios de clientes, gestión de tickets y tareas de microinformática.
+- Monitoreo mediante Grafana.
+
+Soporte técnico N1/N2 — YEL Informática
+Octubre de 2020–septiembre de 2021
+- Soporte técnico presencial de niveles 1 y 2 a usuarios de un cliente corporativo.
+
+Competencias técnicas
+Cloud e identidades: Microsoft Azure, AKS, Kubernetes, Microsoft Entra ID, Microsoft 365. Administración de cómputo y usuarios en Azure y Entra ID. AKS/Kubernetes forman parte de la plataforma del equipo.
+GitOps y entrega: Git, GitHub, Azure DevOps, Argo CD, Helm. Versionado con Git/GitHub. Azure DevOps y Argo CD son parte del entorno de trabajo; implementación de SemaphoreUI mediante Helm.
+Automatización operativa: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Playbooks y scripts propios para configuración de VMs, servicios IIS, certificados y tareas programadas.
+Sistemas y contenedores: Windows Server, IIS, Linux, Docker. Configuración y mantenimiento de Windows Server. Implementación de GLPI sobre Docker y Linux.
+Infraestructura como código: Terraform. Familiaridad con las configuraciones Terraform del equipo. Mi aporte propio son los scripts PowerShell de las VM Applications utilizados durante el aprovisionamiento.
+Monitoreo e integraciones: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana y Checkmk según el entorno. Integraciones propias con Logic Apps, APIs y webhooks para el helpdesk.
+IA y documentación: OpenCode, Markdown, Zettelkasten, Git. Flujos de documentación asistida por agentes, notas enlazadas y revisión humana antes del versionado.
+
+Certificaciones y formación
+Certificación obtenida: Microsoft Certified: Azure Fundamentals — Microsoft · AZ-900
+Obtenida el 14 de agosto de 2026.
+
+En preparación: Azure Administrator — Microsoft · AZ-104
+Preparación para el examen AZ-104.
+
+Curso certificado: Administración de sistemas y servicios de infraestructura de TI — Google / Coursera
+Curso individual certificado, completado el 9 de noviembre de 2020.
+
+Educación técnica: Técnico informático — Otto Krause
+Educación secundaria técnica completada.
+
+Idiomas
+Español. Inglés intermedio: alta comprensión de contenido técnico; comunicación oral en desarrollo, según autoevaluación.

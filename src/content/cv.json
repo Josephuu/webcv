@@ -1,0 +1,615 @@
+{
+  "person": {
+    "name": "Joseph Gavidia",
+    "email": "joseph.gavidiaa@gmail.com",
+    "phone": "+541138884481",
+    "phoneDisplay": "+54 11 3888 4481",
+    "github": "https://github.com/Josephuu",
+    "linkedin": "https://linkedin.com/in/soporte-infraestructura-joseph-gavidia"
+  },
+  "reviewedAt": "2026-10-21",
+  "featuredStack": [
+    "Microsoft Azure",
+    "AKS / Kubernetes",
+    "Argo CD",
+    "Azure DevOps",
+    "Git / GitHub",
+    "Windows Server",
+    "Entra ID",
+    "Terraform"
+  ],
+  "locales": {
+    "es": {
+      "ui": {
+        "nav": [
+          "Perfil",
+          "Experiencia",
+          "Stack",
+          "Proyectos",
+          "Formación",
+          "Contacto"
+        ],
+        "eyebrow": "SYSADMIN SSR · MICROSOFT AZURE",
+        "headline": [
+          "Cloud &",
+          "automatización."
+        ],
+        "intro": "Administro infraestructura y desarrollo automatizaciones para que el equipo opere de forma más simple, centralizada y consistente.",
+        "location": "Buenos Aires, Argentina",
+        "viewWork": "Ver experiencia",
+        "download": "Descargar CV",
+        "downloadText": "CV en texto (ATS)",
+        "downloadPdf": "Descargar PDF",
+        "print": "Imprimir / guardar PDF",
+        "profileLabel": "01 / PERFIL",
+        "profileTitle": "Infraestructura, con mirada operativa.",
+        "experienceLabel": "02 / TRAYECTORIA",
+        "experienceTitle": "Del soporte a la administración cloud.",
+        "experienceIntro": "Experiencia en soporte, sistemas e infraestructura. Cargo actual: Sysadmin SSR en Yoizen.",
+        "responsibilities": "Responsabilidades y contribuciones",
+        "present": "actualidad",
+        "stackLabel": "03 / HERRAMIENTAS",
+        "stackTitle": "El stack detrás del trabajo.",
+        "stackIntro": "Tecnologías aplicadas en administración de infraestructura, automatización y operación del entorno del equipo.",
+        "projectsLabel": "04 / TRABAJO APLICADO",
+        "projectsTitle": "Problemas reales. Soluciones en uso.",
+        "projectsIntro": "Selección de automatizaciones, integraciones y flujos de conocimiento implementados en Yoizen.",
+        "projectContext": "Proyecto profesional · Yoizen",
+        "details": "Ver implementación",
+        "problem": "Necesidad",
+        "contribution": "Mi contribución",
+        "outcome": "Resultado",
+        "educationLabel": "05 / FORMACIÓN",
+        "educationTitle": "Fundamentos y aprendizaje continuo.",
+        "earned": "Certificación obtenida",
+        "learning": "En preparación",
+        "course": "Curso certificado",
+        "school": "Educación técnica",
+        "languages": "Idiomas",
+        "contactLabel": "06 / CONTACTO",
+        "contactTitle": "Hablemos de infraestructura.",
+        "contactIntro": "Para conversar sobre administración cloud, sistemas y automatización, podés escribirme por correo o conectar en LinkedIn.",
+        "emailLabel": "Escribime",
+        "phoneLabel": "Teléfono",
+        "skip": "Saltar al contenido",
+        "menuOpen": "Abrir menú",
+        "menuClose": "Cerrar menú",
+        "navigation": "Navegación principal",
+        "home": "Joseph Gavidia — inicio",
+        "footer": "Administración cloud · Infraestructura · Automatización",
+        "updated": "Contenido revisado: octubre de 2026",
+        "resumeTitle": "Administración Cloud | Microsoft Azure y automatización",
+        "resumeSections": [
+          "Perfil profesional",
+          "Experiencia profesional",
+          "Competencias técnicas",
+          "Certificaciones y formación",
+          "Idiomas"
+        ],
+        "back": "Volver al sitio"
+      },
+      "profile": "Administrador de sistemas SSR con trayectoria en soporte técnico, administración de infraestructura y automatización de tareas operativas. Experiencia en Microsoft Azure, Windows Server, Microsoft Entra ID y desarrollo de automatizaciones con Ansible y PowerShell. Entorno de trabajo con AKS/Kubernetes, Argo CD, Azure DevOps y repositorios Git/GitHub. Implementación de herramientas de uso compartido, integraciones con Azure Logic Apps y procesos de documentación asistida por IA. Orientado a administración cloud, con foco en estandarización operativa, transferencia de conocimiento y visibilidad del gasto.",
+      "jobs": [
+        {
+          "id": "yoizen",
+          "company": "Yoizen",
+          "role": "Sysadmin SSR",
+          "start": "2024-10",
+          "end": null,
+          "period": "Octubre de 2024–actualidad",
+          "bullets": [
+            "Administración de recursos de cómputo y usuarios en Microsoft Entra ID, relevamiento de activos, seguimiento de incidentes y revisión de vulnerabilidades. Entorno de monitoreo del equipo: Grafana.",
+            "Aprovisionamiento y configuración de una VM en Azure para cargas Microsoft SQL Server, según requerimientos del DBA, con ajustes de capacidad y licenciamiento para acompañar una migración de workloads.",
+            "Implementación completa de SemaphoreUI mediante Helm y una base de datos externa. Desarrollo de playbooks Ansible para configuración y consulta de VMs, reinicios programados de sitios IIS y servicios, limpieza de logs y renovación de certificados, facilitando una operación centralizada y más estandarizada para el equipo.",
+            "Desarrollo y revisión de scripts PowerShell distribuidos mediante Azure VM Applications para instalar software y aplicar configuraciones durante el aprovisionamiento de VMs con Terraform, evitando una ejecución manual posterior de SemaphoreUI para esas tareas.",
+            "Implementación de GLPI sobre Docker y Linux como helpdesk corporativo, centralizando la carga de tickets. Configuración de SSO con Google, 2FA, formularios, permisos, SLAs y aprobaciones; integración mediante Azure Logic Apps, webhooks y API con Google Chat y creación de eventos en Google Calendar para upgrades autorizados.",
+            "Diseño y desarrollo de DIKS, un sistema de documentación de infraestructura asistido por IA que analiza repositorios y genera notas Markdown estandarizadas y enlazadas, con revisión humana y versionado en Git, facilitando la transferencia de conocimiento y la consulta autónoma.",
+            "Implementación de budgets segmentados y alertas al superar el 50% del presupuesto configurado en Azure, con notificaciones por correo mediante Action Groups, mejorando la visibilidad del gasto para el equipo."
+          ]
+        },
+        {
+          "id": "inter-tic",
+          "company": "INTER TIC",
+          "role": "Sysadmin",
+          "start": "2023-10",
+          "end": "2024-10",
+          "period": "Octubre de 2023–octubre de 2024",
+          "bullets": [
+            "Configuración y mantenimiento de VMs Windows Server, con monitoreo de infraestructura mediante Checkmk.",
+            "Administración de altas, bajas y modificaciones de usuarios en Microsoft 365 y Microsoft Entra ID.",
+            "Configuración de Tango Software."
+          ]
+        },
+        {
+          "id": "epidata",
+          "company": "EPIDATA",
+          "role": "Soporte técnico N1/N2",
+          "start": "2021-09",
+          "end": "2023-10",
+          "period": "Septiembre de 2021–octubre de 2023",
+          "bullets": [
+            "Soporte técnico remoto y presencial a usuarios de clientes, gestión de tickets y tareas de microinformática.",
+            "Monitoreo mediante Grafana."
+          ]
+        },
+        {
+          "id": "yel-informática",
+          "company": "YEL Informática",
+          "role": "Soporte técnico N1/N2",
+          "start": "2020-10",
+          "end": "2021-09",
+          "period": "Octubre de 2020–septiembre de 2021",
+          "bullets": [
+            "Soporte técnico presencial de niveles 1 y 2 a usuarios de un cliente corporativo."
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "0",
+          "title": "Cloud e identidades",
+          "note": "Administración de cómputo y usuarios en Azure y Entra ID. AKS/Kubernetes forman parte de la plataforma del equipo.",
+          "tags": [
+            "Microsoft Azure",
+            "AKS",
+            "Kubernetes",
+            "Microsoft Entra ID",
+            "Microsoft 365"
+          ]
+        },
+        {
+          "id": "1",
+          "title": "GitOps y entrega",
+          "note": "Versionado con Git/GitHub. Azure DevOps y Argo CD son parte del entorno de trabajo; implementación de SemaphoreUI mediante Helm.",
+          "tags": [
+            "Git",
+            "GitHub",
+            "Azure DevOps",
+            "Argo CD",
+            "Helm"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Automatización operativa",
+          "note": "Playbooks y scripts propios para configuración de VMs, servicios IIS, certificados y tareas programadas.",
+          "tags": [
+            "Ansible",
+            "SemaphoreUI",
+            "PowerShell",
+            "Azure VM Applications"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Sistemas y contenedores",
+          "note": "Configuración y mantenimiento de Windows Server. Implementación de GLPI sobre Docker y Linux.",
+          "tags": [
+            "Windows Server",
+            "IIS",
+            "Linux",
+            "Docker"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Infraestructura como código",
+          "note": "Familiaridad con las configuraciones Terraform del equipo. Mi aporte propio son los scripts PowerShell de las VM Applications utilizados durante el aprovisionamiento.",
+          "tags": [
+            "Terraform"
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Monitoreo e integraciones",
+          "note": "Grafana y Checkmk según el entorno. Integraciones propias con Logic Apps, APIs y webhooks para el helpdesk.",
+          "tags": [
+            "Grafana",
+            "Checkmk",
+            "Azure Logic Apps",
+            "API",
+            "Webhooks",
+            "GLPI"
+          ]
+        },
+        {
+          "id": "6",
+          "title": "IA y documentación",
+          "note": "Flujos de documentación asistida por agentes, notas enlazadas y revisión humana antes del versionado.",
+          "tags": [
+            "OpenCode",
+            "Markdown",
+            "Zettelkasten",
+            "Git"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "semaphore",
+          "title": "Automatización operativa",
+          "summary": "De tareas manuales a una operación compartida.",
+          "problem": "El equipo necesitaba ejecutar tareas repetitivas sin depender de conocer Ansible en profundidad.",
+          "contribution": "Implementé SemaphoreUI mediante Helm y desarrollé playbooks para configuración de VMs, reinicios de IIS y servicios, limpieza de logs y certificados.",
+          "outcome": "El equipo utiliza una interfaz centralizada que facilita la ejecución y estandariza tareas operativas.",
+          "tags": [
+            "Ansible",
+            "SemaphoreUI",
+            "Helm"
+          ]
+        },
+        {
+          "id": "glpi",
+          "title": "Helpdesk e integraciones",
+          "summary": "Un punto de entrada para los tickets corporativos.",
+          "problem": "La carga de solicitudes estaba dispersa entre varios sistemas de tickets.",
+          "contribution": "Implementé GLPI sobre Docker/Linux, con SSO, 2FA, formularios, SLAs, permisos y aprobaciones. Integré notificaciones de Google Chat y eventos de Calendar mediante Logic Apps, API y webhooks.",
+          "outcome": "Centralización de la carga de tickets, con notificaciones y eventos para upgrades aprobados.",
+          "tags": [
+            "GLPI",
+            "Docker",
+            "Azure Logic Apps"
+          ]
+        },
+        {
+          "id": "diks",
+          "title": "Documentación asistida por IA",
+          "summary": "Conocimiento del equipo, disponible para el equipo.",
+          "problem": "El conocimiento estaba concentrado en especialistas y documentar competía con las tareas diarias.",
+          "contribution": "Diseñé DIKS para analizar repositorios y producir notas Markdown estandarizadas y enlazadas, con agentes, skills, revisión humana y versionado en Git.",
+          "outcome": "Menos fricción al documentar y una base de consulta que facilita aprender sin depender de la disponibilidad de un compañero.",
+          "tags": [
+            "DIKS",
+            "OpenCode",
+            "Git",
+            "Markdown"
+          ]
+        },
+        {
+          "id": "costs",
+          "title": "Visibilidad de costos en Azure",
+          "summary": "Alertas antes de perder de vista el presupuesto.",
+          "problem": "El equipo necesitaba mayor visibilidad del gasto cloud.",
+          "contribution": "Configuré budgets segmentados y avisos por correo mediante Action Groups al superar el 50% del presupuesto configurado.",
+          "outcome": "Mayor visibilidad del consumo y notificaciones presupuestarias compartidas con el equipo.",
+          "tags": [
+            "Azure",
+            "Budgets",
+            "Action Groups"
+          ]
+        }
+      ],
+      "credentials": [
+        {
+          "id": "az-900",
+          "status": "earned",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "issuer": "Microsoft · AZ-900",
+          "date": "2026-08-14",
+          "detail": "Obtenida el 14 de agosto de 2026."
+        },
+        {
+          "id": "az-104",
+          "status": "learning",
+          "title": "Azure Administrator",
+          "issuer": "Microsoft · AZ-104",
+          "date": null,
+          "detail": "Preparación para el examen AZ-104."
+        },
+        {
+          "id": "google-course",
+          "status": "course",
+          "title": "Administración de sistemas y servicios de infraestructura de TI",
+          "issuer": "Google / Coursera",
+          "date": "2020-11-09",
+          "detail": "Curso individual certificado, completado el 9 de noviembre de 2020."
+        },
+        {
+          "id": "otto-krause",
+          "status": "school",
+          "title": "Técnico informático",
+          "issuer": "Otto Krause",
+          "date": null,
+          "detail": "Educación secundaria técnica completada."
+        }
+      ],
+      "languages": "Español. Inglés intermedio: alta comprensión de contenido técnico; comunicación oral en desarrollo, según autoevaluación."
+    },
+    "en": {
+      "ui": {
+        "nav": [
+          "Profile",
+          "Experience",
+          "Stack",
+          "Projects",
+          "Education",
+          "Contact"
+        ],
+        "eyebrow": "SYSADMIN SSR · MICROSOFT AZURE",
+        "headline": [
+          "Cloud &",
+          "automation."
+        ],
+        "intro": "I administer infrastructure and develop automation to make team operations simpler, more centralized and consistent.",
+        "location": "Buenos Aires, Argentina",
+        "viewWork": "View experience",
+        "download": "Download CV",
+        "downloadText": "Plain-text CV (ATS)",
+        "downloadPdf": "Download PDF",
+        "print": "Print / save PDF",
+        "profileLabel": "01 / PROFILE",
+        "profileTitle": "Infrastructure, with an operational mindset.",
+        "experienceLabel": "02 / EXPERIENCE",
+        "experienceTitle": "From support to cloud administration.",
+        "experienceIntro": "A background in technical support, systems and infrastructure. Current role: Sysadmin SSR at Yoizen.",
+        "responsibilities": "Responsibilities and contributions",
+        "present": "present",
+        "stackLabel": "03 / TOOLKIT",
+        "stackTitle": "The stack behind the work.",
+        "stackIntro": "Technologies used in infrastructure administration, automation and the team's operational environment.",
+        "projectsLabel": "04 / APPLIED WORK",
+        "projectsTitle": "Real problems. Solutions in use.",
+        "projectsIntro": "Selected automation, integration and knowledge-sharing workflows implemented at Yoizen.",
+        "projectContext": "Professional project · Yoizen",
+        "details": "View implementation",
+        "problem": "Need",
+        "contribution": "My contribution",
+        "outcome": "Outcome",
+        "educationLabel": "05 / EDUCATION",
+        "educationTitle": "Foundations and continuous learning.",
+        "earned": "Earned certification",
+        "learning": "In preparation",
+        "course": "Individual course certificate",
+        "school": "Technical education",
+        "languages": "Languages",
+        "contactLabel": "06 / CONTACT",
+        "contactTitle": "Let's talk infrastructure.",
+        "contactIntro": "For conversations about cloud administration, systems and automation, email me or connect on LinkedIn.",
+        "emailLabel": "Email me",
+        "phoneLabel": "Phone",
+        "skip": "Skip to content",
+        "menuOpen": "Open menu",
+        "menuClose": "Close menu",
+        "navigation": "Main navigation",
+        "home": "Joseph Gavidia — home",
+        "footer": "Cloud administration · Infrastructure · Automation",
+        "updated": "Content reviewed: October 2026",
+        "resumeTitle": "Cloud Administration | Microsoft Azure & Automation",
+        "resumeSections": [
+          "Professional profile",
+          "Professional experience",
+          "Technical skills",
+          "Certifications and education",
+          "Languages"
+        ],
+        "back": "Back to website"
+      },
+      "profile": "Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.",
+      "jobs": [
+        {
+          "id": "yoizen",
+          "company": "Yoizen",
+          "role": "Systems Administrator (Sysadmin SSR)",
+          "start": "2024-10",
+          "end": null,
+          "period": "October 2024–present",
+          "bullets": [
+            "Administer compute resources and Microsoft Entra ID users, perform asset surveys, follow up on incidents and review vulnerabilities. Team monitoring environment: Grafana.",
+            "Provisioned and configured an Azure VM for Microsoft SQL Server workloads according to DBA requirements, adjusting capacity and licensing to support a workload migration.",
+            "Implemented SemaphoreUI using Helm and an external database. Developed Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, enabling more centralized and standardized team operations.",
+            "Developed and reviewed PowerShell scripts delivered through Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.",
+            "Implemented a corporate helpdesk using GLPI on Docker and Linux, centralizing ticket intake. Configured Google SSO, 2FA, request forms, permissions, SLAs and approvals; integrated Azure Logic Apps, webhooks and APIs with Google Chat notifications and Google Calendar event creation for approved upgrades.",
+            "Designed and developed DIKS, an AI-assisted infrastructure documentation system that analyzes repositories and generates standardized, linked Markdown notes, with human review and Git versioning, supporting knowledge sharing and self-directed access to documentation.",
+            "Implemented segmented Azure budgets and alerts when spending exceeded 50% of the configured budget, with email notifications through Action Groups, improving the team's visibility into cloud costs."
+          ]
+        },
+        {
+          "id": "inter-tic",
+          "company": "INTER TIC",
+          "role": "Systems Administrator",
+          "start": "2023-10",
+          "end": "2024-10",
+          "period": "October 2023–October 2024",
+          "bullets": [
+            "Configured and maintained Windows Server VMs, with infrastructure monitoring using Checkmk.",
+            "Managed user provisioning, updates and deprovisioning in Microsoft 365 and Microsoft Entra ID.",
+            "Configured Tango Software."
+          ]
+        },
+        {
+          "id": "epidata",
+          "company": "EPIDATA",
+          "role": "Technical Support, L1/L2",
+          "start": "2021-09",
+          "end": "2023-10",
+          "period": "September 2021–October 2023",
+          "bullets": [
+            "Provided remote and on-site support to client users, including ticket management and end-user computing support.",
+            "Performed monitoring tasks using Grafana."
+          ]
+        },
+        {
+          "id": "yel-informática",
+          "company": "YEL Informática",
+          "role": "Technical Support, L1/L2",
+          "start": "2020-10",
+          "end": "2021-09",
+          "period": "October 2020–September 2021",
+          "bullets": [
+            "Provided on-site level 1 and 2 technical support to users at a corporate client."
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "0",
+          "title": "Cloud and identity",
+          "note": "Compute and user administration in Azure and Entra ID. AKS/Kubernetes are part of the team platform.",
+          "tags": [
+            "Microsoft Azure",
+            "AKS",
+            "Kubernetes",
+            "Microsoft Entra ID",
+            "Microsoft 365"
+          ]
+        },
+        {
+          "id": "1",
+          "title": "GitOps and delivery",
+          "note": "Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.",
+          "tags": [
+            "Git",
+            "GitHub",
+            "Azure DevOps",
+            "Argo CD",
+            "Helm"
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Operational automation",
+          "note": "Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.",
+          "tags": [
+            "Ansible",
+            "SemaphoreUI",
+            "PowerShell",
+            "Azure VM Applications"
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Systems and containers",
+          "note": "Windows Server configuration and maintenance. GLPI implementation on Docker and Linux.",
+          "tags": [
+            "Windows Server",
+            "IIS",
+            "Linux",
+            "Docker"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Infrastructure as code",
+          "note": "Familiarity with the team's Terraform configurations. My own contribution is the PowerShell scripts for VM Applications used during provisioning.",
+          "tags": [
+            "Terraform"
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Monitoring and integrations",
+          "note": "Grafana and Checkmk across different roles. Authored helpdesk integrations with Logic Apps, APIs and webhooks.",
+          "tags": [
+            "Grafana",
+            "Checkmk",
+            "Azure Logic Apps",
+            "API",
+            "Webhooks",
+            "GLPI"
+          ]
+        },
+        {
+          "id": "6",
+          "title": "AI and documentation",
+          "note": "Agent-assisted documentation workflows, linked notes and human review before versioning.",
+          "tags": [
+            "OpenCode",
+            "Markdown",
+            "Zettelkasten",
+            "Git"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "id": "semaphore",
+          "title": "Operational automation",
+          "summary": "From manual tasks to shared operations.",
+          "problem": "The team needed to run repeatable tasks without requiring in-depth Ansible knowledge.",
+          "contribution": "Implemented SemaphoreUI using Helm and authored playbooks for VM configuration, IIS and service restarts, log cleanup and certificates.",
+          "outcome": "The team uses a centralized interface that simplifies execution and standardizes operational tasks.",
+          "tags": [
+            "Ansible",
+            "SemaphoreUI",
+            "Helm"
+          ]
+        },
+        {
+          "id": "glpi",
+          "title": "Helpdesk and integrations",
+          "summary": "One entry point for corporate tickets.",
+          "problem": "Request intake was spread across multiple ticketing systems.",
+          "contribution": "Implemented GLPI on Docker/Linux with SSO, 2FA, forms, SLAs, permissions and approvals. Integrated Google Chat notifications and Calendar events using Logic Apps, APIs and webhooks.",
+          "outcome": "Centralized ticket intake, with notifications and events for approved upgrades.",
+          "tags": [
+            "GLPI",
+            "Docker",
+            "Azure Logic Apps"
+          ]
+        },
+        {
+          "id": "diks",
+          "title": "AI-assisted documentation",
+          "summary": "Team knowledge, accessible to the team.",
+          "problem": "Knowledge was concentrated in specialists, while documentation competed with daily operations.",
+          "contribution": "Designed DIKS to analyze repositories and produce standardized, linked Markdown notes using agents, skills, human review and Git versioning.",
+          "outcome": "Less friction in documentation and a shared reference that supports learning without depending on a colleague being available.",
+          "tags": [
+            "DIKS",
+            "OpenCode",
+            "Git",
+            "Markdown"
+          ]
+        },
+        {
+          "id": "costs",
+          "title": "Azure cost visibility",
+          "summary": "Alerts that keep budgets in view.",
+          "problem": "The team needed better visibility into cloud spending.",
+          "contribution": "Configured segmented budgets and email notifications through Action Groups when spending exceeded 50% of the configured budget.",
+          "outcome": "Improved spending visibility and shared budget notifications for the team.",
+          "tags": [
+            "Azure",
+            "Budgets",
+            "Action Groups"
+          ]
+        }
+      ],
+      "credentials": [
+        {
+          "id": "az-900",
+          "status": "earned",
+          "title": "Microsoft Certified: Azure Fundamentals",
+          "issuer": "Microsoft · AZ-900",
+          "date": "2026-08-14",
+          "detail": "Earned August 14, 2026."
+        },
+        {
+          "id": "az-104",
+          "status": "learning",
+          "title": "Azure Administrator",
+          "issuer": "Microsoft · AZ-104",
+          "date": null,
+          "detail": "Preparing for the AZ-104 exam."
+        },
+        {
+          "id": "google-course",
+          "status": "course",
+          "title": "Administración de sistemas y servicios de infraestructura de TI",
+          "issuer": "Google / Coursera",
+          "date": "2020-11-09",
+          "detail": "Individual course certificate, completed November 9, 2020."
+        },
+        {
+          "id": "otto-krause",
+          "status": "school",
+          "title": "IT Technician diploma",
+          "issuer": "Otto Krause",
+          "date": null,
+          "detail": "Completed technical secondary education."
+        }
+      ],
+      "languages": "Spanish. Intermediate English: strong technical comprehension; spoken communication skills in development, based on self-assessment."
+    }
+  }
+}

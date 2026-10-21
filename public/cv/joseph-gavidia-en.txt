@@ -1,0 +1,59 @@
+Joseph Gavidia
+Cloud Administration | Microsoft Azure & Automation
+joseph.gavidiaa@gmail.com | +54 11 3888 4481 | Buenos Aires, Argentina
+https://linkedin.com/in/soporte-infraestructura-joseph-gavidia
+https://github.com/Josephuu
+
+Professional profile
+Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.
+
+Professional experience
+Systems Administrator (Sysadmin SSR) — Yoizen
+October 2024–present
+- Administer compute resources and Microsoft Entra ID users, perform asset surveys, follow up on incidents and review vulnerabilities. Team monitoring environment: Grafana.
+- Provisioned and configured an Azure VM for Microsoft SQL Server workloads according to DBA requirements, adjusting capacity and licensing to support a workload migration.
+- Implemented SemaphoreUI using Helm and an external database. Developed Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, enabling more centralized and standardized team operations.
+- Developed and reviewed PowerShell scripts delivered through Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.
+- Implemented a corporate helpdesk using GLPI on Docker and Linux, centralizing ticket intake. Configured Google SSO, 2FA, request forms, permissions, SLAs and approvals; integrated Azure Logic Apps, webhooks and APIs with Google Chat notifications and Google Calendar event creation for approved upgrades.
+- Designed and developed DIKS, an AI-assisted infrastructure documentation system that analyzes repositories and generates standardized, linked Markdown notes, with human review and Git versioning, supporting knowledge sharing and self-directed access to documentation.
+- Implemented segmented Azure budgets and alerts when spending exceeded 50% of the configured budget, with email notifications through Action Groups, improving the team's visibility into cloud costs.
+
+Systems Administrator — INTER TIC
+October 2023–October 2024
+- Configured and maintained Windows Server VMs, with infrastructure monitoring using Checkmk.
+- Managed user provisioning, updates and deprovisioning in Microsoft 365 and Microsoft Entra ID.
+- Configured Tango Software.
+
+Technical Support, L1/L2 — EPIDATA
+September 2021–October 2023
+- Provided remote and on-site support to client users, including ticket management and end-user computing support.
+- Performed monitoring tasks using Grafana.
+
+Technical Support, L1/L2 — YEL Informática
+October 2020–September 2021
+- Provided on-site level 1 and 2 technical support to users at a corporate client.
+
+Technical skills
+Cloud and identity: Microsoft Azure, AKS, Kubernetes, Microsoft Entra ID, Microsoft 365. Compute and user administration in Azure and Entra ID. AKS/Kubernetes are part of the team platform.
+GitOps and delivery: Git, GitHub, Azure DevOps, Argo CD, Helm. Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.
+Operational automation: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.
+Systems and containers: Windows Server, IIS, Linux, Docker. Windows Server configuration and maintenance. GLPI implementation on Docker and Linux.
+Infrastructure as code: Terraform. Familiarity with the team's Terraform configurations. My own contribution is the PowerShell scripts for VM Applications used during provisioning.
+Monitoring and integrations: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana and Checkmk across different roles. Authored helpdesk integrations with Logic Apps, APIs and webhooks.
+AI and documentation: OpenCode, Markdown, Zettelkasten, Git. Agent-assisted documentation workflows, linked notes and human review before versioning.
+
+Certifications and education
+Earned certification: Microsoft Certified: Azure Fundamentals — Microsoft · AZ-900
+Earned August 14, 2026.
+
+In preparation: Azure Administrator — Microsoft · AZ-104
+Preparing for the AZ-104 exam.
+
+Individual course certificate: Administración de sistemas y servicios de infraestructura de TI — Google / Coursera
+Individual course certificate, completed November 9, 2020.
+
+Technical education: IT Technician diploma — Otto Krause
+Completed technical secondary education.
+
+Languages
+Spanish. Intermediate English: strong technical comprehension; spoken communication skills in development, based on self-assessment.
