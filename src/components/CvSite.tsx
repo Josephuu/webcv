@@ -425,12 +425,25 @@ export function CvSite() {
               {cv.projects.map((project, index) => (
                 <article className="project-card" key={project.id}>
                   <div className="project-top">
-                    <span className="mono-label">{ui.projectContext}</span>
+                    <span className="mono-label">{project.context}</span>
                     <span className="project-number">0{index + 1}</span>
                   </div>
                   <h3>{project.title}</h3>
                   <p className="project-summary">{project.summary}</p>
                   <Tags items={project.tags} />
+                  {project.url && (
+                    <div className="button-row">
+                      <a
+                        className="button button-secondary"
+                        href={project.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {project.linkLabel}
+                        <ArrowUpRight size={17} aria-hidden="true" />
+                      </a>
+                    </div>
+                  )}
                   <details className="project-details">
                     <summary>
                       {ui.details}

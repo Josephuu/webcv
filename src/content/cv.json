@@ -53,7 +53,7 @@
         "stackIntro": "Tecnologías aplicadas en administración de infraestructura, automatización y operación del entorno del equipo.",
         "projectsLabel": "04 / TRABAJO APLICADO",
         "projectsTitle": "Problemas reales. Soluciones en uso.",
-        "projectsIntro": "Selección de automatizaciones, integraciones y flujos de conocimiento implementados en Yoizen.",
+        "projectsIntro": "Un proyecto personal con demo pública, junto con automatizaciones, integraciones y flujos de conocimiento implementados en Yoizen.",
         "projectContext": "Proyecto profesional · Yoizen",
         "details": "Ver implementación",
         "problem": "Necesidad",
@@ -86,7 +86,8 @@
           "Certificaciones y formación",
           "Idiomas"
         ],
-        "back": "Volver al sitio"
+        "back": "Volver al sitio",
+        "resumeProjectsTitle": "Proyecto personal destacado"
       },
       "profile": "Administrador de sistemas SSR con trayectoria en soporte técnico, administración de infraestructura y automatización de tareas operativas. Experiencia en Microsoft Azure, Windows Server, Microsoft Entra ID y desarrollo de automatizaciones con Ansible y PowerShell. Entorno de trabajo con AKS/Kubernetes, Argo CD, Azure DevOps y repositorios Git/GitHub. Implementación de herramientas de uso compartido, integraciones con Azure Logic Apps y procesos de documentación asistida por IA. Orientado a administración cloud, con foco en estandarización operativa, transferencia de conocimiento y visibilidad del gasto.",
       "jobs": [
@@ -226,6 +227,27 @@
       ],
       "projects": [
         {
+          "id": "eurekamakers",
+          "context": "Proyecto personal · demo pública",
+          "title": "EurekaMakers · plataforma cloud para impresión 3D",
+          "summary": "Cotización 3D en una aplicación con arquitectura cloud–edge.",
+          "problem": "Unificar la cotización de piezas y la gestión de solicitudes de impresión 3D en una plataforma web accesible.",
+          "contribution": "Desarrollé una aplicación con Python/FastAPI, frontend Svelte/TypeScript y visualización 3D con Three.js. Containericé la solución con Docker y diseñé una arquitectura cloud–edge para Azure Container Apps, con Azure Table Storage y un agente local de comunicación saliente.",
+          "outcome": "Web pública con visualización 3D y cotizador explorable sin iniciar sesión. El código y la documentación técnica se mantienen en un repositorio privado.",
+          "tags": [
+            "Azure Container Apps",
+            "Azure Table Storage",
+            "Docker",
+            "Python / FastAPI",
+            "Svelte / TypeScript",
+            "Three.js",
+            "GitHub Actions"
+          ],
+          "url": "https://www.eurekamakers.net/",
+          "linkLabel": "Ver proyecto en vivo",
+          "resumeDescription": "Proyecto personal de cotización e impresión 3D. Desarrollé una aplicación con FastAPI, Svelte/TypeScript y Three.js; containerización con Docker y arquitectura cloud–edge para Azure Container Apps y Azure Table Storage."
+        },
+        {
           "id": "semaphore",
           "title": "Automatización operativa",
           "summary": "De tareas manuales a una operación compartida.",
@@ -236,7 +258,11 @@
             "Ansible",
             "SemaphoreUI",
             "Helm"
-          ]
+          ],
+          "context": "Proyecto profesional · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "glpi",
@@ -249,7 +275,11 @@
             "GLPI",
             "Docker",
             "Azure Logic Apps"
-          ]
+          ],
+          "context": "Proyecto profesional · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "diks",
@@ -263,7 +293,11 @@
             "OpenCode",
             "Git",
             "Markdown"
-          ]
+          ],
+          "context": "Proyecto profesional · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "costs",
@@ -276,7 +310,11 @@
             "Azure",
             "Budgets",
             "Action Groups"
-          ]
+          ],
+          "context": "Proyecto profesional · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         }
       ],
       "credentials": [
@@ -349,7 +387,7 @@
         "stackIntro": "Technologies used in infrastructure administration, automation and the team's operational environment.",
         "projectsLabel": "04 / APPLIED WORK",
         "projectsTitle": "Real problems. Solutions in use.",
-        "projectsIntro": "Selected automation, integration and knowledge-sharing workflows implemented at Yoizen.",
+        "projectsIntro": "A personal project with a public demo, alongside automation, integrations, and knowledge workflows implemented at Yoizen.",
         "projectContext": "Professional project · Yoizen",
         "details": "View implementation",
         "problem": "Need",
@@ -382,7 +420,8 @@
           "Certifications and education",
           "Languages"
         ],
-        "back": "Back to website"
+        "back": "Back to website",
+        "resumeProjectsTitle": "Selected personal project"
       },
       "profile": "Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.",
       "jobs": [
@@ -522,6 +561,27 @@
       ],
       "projects": [
         {
+          "id": "eurekamakers",
+          "context": "Personal project · public demo",
+          "title": "EurekaMakers · cloud platform for 3D printing",
+          "summary": "3D quotation in an application with a cloud–edge architecture.",
+          "problem": "Bring 3D-print quotation and request management together in an accessible web platform.",
+          "contribution": "Developed an application with Python/FastAPI, a Svelte/TypeScript frontend, and Three.js for 3D visualization. Containerized the solution with Docker and designed a cloud–edge architecture for Azure Container Apps, with Azure Table Storage and an outbound-only local agent.",
+          "outcome": "Public website with 3D visualization and a quotation interface that can be explored without signing in. Source code and technical documentation are maintained in a private repository.",
+          "tags": [
+            "Azure Container Apps",
+            "Azure Table Storage",
+            "Docker",
+            "Python / FastAPI",
+            "Svelte / TypeScript",
+            "Three.js",
+            "GitHub Actions"
+          ],
+          "url": "https://www.eurekamakers.net/",
+          "linkLabel": "View live project",
+          "resumeDescription": "Personal 3D-print quotation project. Developed an application with FastAPI, Svelte/TypeScript, and Three.js; Docker containerization and a cloud–edge architecture for Azure Container Apps and Azure Table Storage."
+        },
+        {
           "id": "semaphore",
           "title": "Operational automation",
           "summary": "From manual tasks to shared operations.",
@@ -532,7 +592,11 @@
             "Ansible",
             "SemaphoreUI",
             "Helm"
-          ]
+          ],
+          "context": "Professional project · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "glpi",
@@ -545,7 +609,11 @@
             "GLPI",
             "Docker",
             "Azure Logic Apps"
-          ]
+          ],
+          "context": "Professional project · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "diks",
@@ -559,7 +627,11 @@
             "OpenCode",
             "Git",
             "Markdown"
-          ]
+          ],
+          "context": "Professional project · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         },
         {
           "id": "costs",
@@ -572,7 +644,11 @@
             "Azure",
             "Budgets",
             "Action Groups"
-          ]
+          ],
+          "context": "Professional project · Yoizen",
+          "url": null,
+          "linkLabel": null,
+          "resumeDescription": null
         }
       ],
       "credentials": [

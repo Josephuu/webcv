@@ -42,6 +42,11 @@ Infrastructure as code: Terraform. Familiarity with the team's Terraform configu
 Monitoring and integrations: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana and Checkmk across different roles. Authored helpdesk integrations with Logic Apps, APIs and webhooks.
 AI and documentation: OpenCode, Markdown, Zettelkasten, Git. Agent-assisted documentation workflows, linked notes and human review before versioning.
 
+Selected personal project
+EurekaMakers · cloud platform for 3D printing
+Personal 3D-print quotation project. Developed an application with FastAPI, Svelte/TypeScript, and Three.js; Docker containerization and a cloud–edge architecture for Azure Container Apps and Azure Table Storage.
+https://www.eurekamakers.net/
+
 Certifications and education
 Earned certification: Microsoft Certified: Azure Fundamentals — Microsoft · AZ-900
 Earned August 14, 2026.
