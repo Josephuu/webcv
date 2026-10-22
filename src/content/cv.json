@@ -7,7 +7,7 @@
     "github": "https://github.com/Josephuu",
     "linkedin": "https://linkedin.com/in/soporte-infraestructura-joseph-gavidia"
   },
-  "reviewedAt": "2026-10-21",
+  "reviewedAt": "2026-10-22",
   "featuredStack": [
     "Microsoft Azure",
     "AKS / Kubernetes",
@@ -184,12 +184,26 @@
         {
           "id": "3",
           "title": "Sistemas y contenedores",
-          "note": "Configuración y mantenimiento de Windows Server. Implementación de GLPI sobre Docker y Linux.",
+          "note": "Configuración y mantenimiento de Windows Server; gestión de usuarios, GPO y políticas en Active Directory. Conocimientos de DNS y DHCP. Implementación de GLPI sobre Docker y Linux.",
           "tags": [
             "Windows Server",
+            "Active Directory",
+            "GPO",
+            "DNS",
+            "DHCP",
             "IIS",
             "Linux",
             "Docker"
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Backups y recuperación ante desastres",
+          "note": "Experiencia con Veeam. Diseño de políticas y redundancia en Azure Backup; restauraciones y recuperación entre regiones (CRR).",
+          "tags": [
+            "Veeam",
+            "Azure Backup",
+            "CRR"
           ]
         },
         {
@@ -518,12 +532,26 @@
         {
           "id": "3",
           "title": "Systems and containers",
-          "note": "Windows Server configuration and maintenance. GLPI implementation on Docker and Linux.",
+          "note": "Windows Server configuration and maintenance; management of Active Directory users, GPOs and policies. Knowledge of DNS and DHCP. GLPI implementation on Docker and Linux.",
           "tags": [
             "Windows Server",
+            "Active Directory",
+            "GPO",
+            "DNS",
+            "DHCP",
             "IIS",
             "Linux",
             "Docker"
+          ]
+        },
+        {
+          "id": "7",
+          "title": "Backup and disaster recovery",
+          "note": "Experience with Veeam. Designed Azure Backup policies and redundancy; performed restores and Cross Region Restore (CRR).",
+          "tags": [
+            "Veeam",
+            "Azure Backup",
+            "CRR"
           ]
         },
         {

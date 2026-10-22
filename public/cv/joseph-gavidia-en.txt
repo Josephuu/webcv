@@ -37,7 +37,8 @@ Technical skills
 Cloud and identity: Microsoft Azure, AKS, Kubernetes, Microsoft Entra ID, Microsoft 365. Compute and user administration in Azure and Entra ID. AKS/Kubernetes are part of the team platform.
 GitOps and delivery: Git, GitHub, Azure DevOps, Argo CD, Helm. Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.
 Operational automation: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.
-Systems and containers: Windows Server, IIS, Linux, Docker. Windows Server configuration and maintenance. GLPI implementation on Docker and Linux.
+Systems and containers: Windows Server, Active Directory, GPO, DNS, DHCP, IIS, Linux, Docker. Windows Server configuration and maintenance; management of Active Directory users, GPOs and policies. Knowledge of DNS and DHCP. GLPI implementation on Docker and Linux.
+Backup and disaster recovery: Veeam, Azure Backup, CRR. Experience with Veeam. Designed Azure Backup policies and redundancy; performed restores and Cross Region Restore (CRR).
 Infrastructure as code: Terraform. Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.
 Monitoring and integrations: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana and Checkmk across different roles. Authored helpdesk integrations with Logic Apps, APIs and webhooks.
 AI and documentation: OpenCode, Markdown, Zettelkasten, Git. Agent-assisted documentation workflows, linked notes and human review before versioning.

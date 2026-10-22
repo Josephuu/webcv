@@ -3,15 +3,15 @@
   "files": [
     {
       "language": "es",
-      "sourceHash": "c79166970c5333cfa4483f7bab72b4277c8d1f9398a6e2523558bfef941dc94e",
-      "sha256": "93ea21fce0869c962656cd868704a9ceaaa4ab6d2e4fc2fe5e530ea28ec4b75a",
-      "bytes": 75222
+      "sourceHash": "b91dfd1be04da496eb8ecd7556c09b137e75f2ba63b0541d7320cf484296beee",
+      "sha256": "e7a384b95828b0c4143f52153ae97fc18f5f21ebb52dbebcab1a1d523017389c",
+      "bytes": 76196
     },
     {
       "language": "en",
-      "sourceHash": "c79166970c5333cfa4483f7bab72b4277c8d1f9398a6e2523558bfef941dc94e",
-      "sha256": "ef60245d2217df0e9867d5ed89b6cfb3050d36eadb2c20a1f10052040ed71dd8",
-      "bytes": 74872
+      "sourceHash": "b91dfd1be04da496eb8ecd7556c09b137e75f2ba63b0541d7320cf484296beee",
+      "sha256": "322610e9a33cd36ac449c2a3be7f872994d207f495c2d525dff6525a88f2bd5b",
+      "bytes": 75638
     }
   ]
 }

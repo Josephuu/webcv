@@ -35,7 +35,16 @@ const ids = [
   "formacion",
   "contacto",
 ];
-const icons = [Cloud, GitBranch, Workflow, Server, Boxes, Activity, BookOpen];
+const icons: Record<string, typeof Cloud> = {
+  "0": Cloud,
+  "1": GitBranch,
+  "2": Workflow,
+  "3": Server,
+  "4": Boxes,
+  "5": Activity,
+  "6": BookOpen,
+  "7": ShieldCheck,
+};
 const initialLanguage = (): Language =>
   new URLSearchParams(window.location.search).get("lang") === "en"
     ? "en"
@@ -399,8 +408,8 @@ export function CvSite() {
             intro={ui.stackIntro}
           />
           <div className="skills-grid">
-            {cv.skills.map((skill, index) => {
-              const Icon = icons[index];
+            {cv.skills.map((skill) => {
+              const Icon = icons[skill.id] ?? Boxes;
               return (
                 <article className="skill-card" key={skill.id}>
                   <div className="card-icon">
