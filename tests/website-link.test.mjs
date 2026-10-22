@@ -13,8 +13,9 @@ test("Printable and ATS CV headers retain the public webCV URL in the matching l
     const text = readFileSync(new URL(base.href + ".txt"), "utf8");
     const header = html.match(/<header>([\s\S]*?)<\/header>/)?.[1];
     assert.ok(header, `${language}: missing resume header`);
-    assert.ok(header.includes(`<a href="${target}">`), `${language}: missing clickable webCV contact`);
-    assert.ok(header.includes(target), `${language}: missing visible webCV URL`);
+    const anchor = header.match(new RegExp(`<a href="${target.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}">([^<]*)</a>`));
+    assert.ok(anchor, `${language}: missing clickable webCV contact`);
+    assert.ok(anchor[1].includes(target), `${language}: missing visible webCV URL`);
     assert.ok(text.includes(target), `${language}: missing webCV in ATS text`);
   }
 });

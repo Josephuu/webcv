@@ -11,12 +11,12 @@
   "reviewedAt": "2026-10-22",
   "featuredStack": [
     "Microsoft Azure",
-    "AKS / Kubernetes",
-    "Argo CD",
-    "Azure DevOps",
-    "Git / GitHub",
     "Windows Server",
-    "Entra ID",
+    "Active Directory / GPO",
+    "Microsoft 365 / Entra ID",
+    "PowerShell",
+    "Azure Backup / Veeam",
+    "Ansible",
     "Terraform"
   ],
   "locales": {
@@ -35,7 +35,7 @@
           "Cloud &",
           "automatización."
         ],
-        "intro": "Administro infraestructura y desarrollo automatizaciones para que el equipo opere de forma más simple, centralizada y consistente.",
+        "intro": "Administro infraestructura Microsoft y Azure, automatizo tareas operativas y contribuyo a la continuidad de los servicios.",
         "location": "Buenos Aires, Argentina",
         "viewWork": "Ver experiencia",
         "download": "Descargar CV",
@@ -79,7 +79,7 @@
         "home": "Joseph Gavidia — inicio",
         "footer": "Administración cloud · Infraestructura · Automatización",
         "updated": "Contenido revisado: octubre de 2026",
-        "resumeTitle": "Administración Cloud | Microsoft Azure y automatización",
+        "resumeTitle": "Sysadmin SSR | Infraestructura Microsoft y Azure",
         "resumeSections": [
           "Perfil profesional",
           "Experiencia profesional",
@@ -90,7 +90,7 @@
         "back": "Volver al sitio",
         "resumeProjectsTitle": "Proyecto personal destacado"
       },
-      "profile": "Administrador de sistemas SSR con trayectoria en soporte técnico, administración de infraestructura y automatización de tareas operativas. Experiencia en Microsoft Azure, Windows Server, Microsoft Entra ID y desarrollo de automatizaciones con Ansible y PowerShell. Entorno de trabajo con AKS/Kubernetes, Argo CD, Azure DevOps y repositorios Git/GitHub. Implementación de herramientas de uso compartido, integraciones con Azure Logic Apps y procesos de documentación asistida por IA. Orientado a administración cloud, con foco en estandarización operativa, transferencia de conocimiento y visibilidad del gasto.",
+      "profile": "Sysadmin SSR con experiencia en administración de infraestructura Microsoft y Azure, automatización operativa y continuidad de servicios. Gestión de Windows Server, Active Directory, GPO, Microsoft 365 y Entra ID. Diseño de políticas y redundancia en Azure Backup, con restauraciones y recuperación entre regiones (CRR), además de experiencia con Veeam. Desarrollo de automatizaciones con PowerShell y Ansible, monitoreo y documentación técnica.",
       "jobs": [
         {
           "id": "yoizen",
@@ -100,13 +100,13 @@
           "end": null,
           "period": "Octubre de 2024–actualidad",
           "bullets": [
-            "Administración de recursos de cómputo y usuarios en Microsoft Entra ID, relevamiento de activos, seguimiento de incidentes y revisión de vulnerabilidades. Entorno de monitoreo del equipo: Grafana.",
-            "Aprovisionamiento y configuración de una VM en Azure para cargas Microsoft SQL Server, según requerimientos del DBA, con ajustes de capacidad y licenciamiento para acompañar una migración de workloads.",
-            "Implementación completa de SemaphoreUI mediante Helm y una base de datos externa. Desarrollo de playbooks Ansible para configuración y consulta de VMs, reinicios programados de sitios IIS y servicios, limpieza de logs y renovación de certificados, facilitando una operación centralizada y más estandarizada para el equipo.",
-            "Desarrollo y revisión de scripts PowerShell distribuidos mediante Azure VM Applications para instalar software y aplicar configuraciones durante el aprovisionamiento de VMs con Terraform, evitando una ejecución manual posterior de SemaphoreUI para esas tareas.",
-            "Implementación de GLPI sobre Docker y Linux como helpdesk corporativo, centralizando la carga de tickets. Configuración de SSO con Google, 2FA, formularios, permisos, SLAs y aprobaciones; integración mediante Azure Logic Apps, webhooks y API con Google Chat y creación de eventos en Google Calendar para upgrades autorizados.",
-            "Diseño y desarrollo de DIKS, un sistema de documentación de infraestructura asistido por IA que analiza repositorios y genera notas Markdown estandarizadas y enlazadas, con revisión humana y versionado en Git, facilitando la transferencia de conocimiento y la consulta autónoma.",
-            "Implementación de budgets segmentados y alertas al superar el 50% del presupuesto configurado en Azure, con notificaciones por correo mediante Action Groups, mejorando la visibilidad del gasto para el equipo."
+            "Administración de recursos de cómputo en Azure y usuarios en Entra ID; relevamiento de activos, seguimiento de incidentes y revisión de vulnerabilidades. Entorno de monitoreo del equipo: Grafana.",
+            "Aprovisionamiento y configuración de una VM Azure para workloads Microsoft SQL Server, según requerimientos del DBA, con ajustes de capacidad y licenciamiento para acompañar una migración.",
+            "Implementación de SemaphoreUI con Helm y base externa; desarrollo de playbooks Ansible para configurar y consultar VMs, programar reinicios de sitios IIS y servicios, limpiar logs y renovar certificados, centralizando la operación del equipo.",
+            "Desarrollo y revisión de scripts PowerShell para Azure VM Applications: instalación de software y configuración durante el aprovisionamiento de VMs con Terraform, evitando una ejecución manual posterior de SemaphoreUI para esas tareas.",
+            "Implementación de GLPI en Docker/Linux como helpdesk corporativo para centralizar tickets. Configuración de SSO con Google, 2FA, formularios, permisos, SLAs y aprobaciones; integración con Logic Apps, APIs y webhooks para Google Chat y eventos de Google Calendar en upgrades autorizados.",
+            "Diseño y desarrollo de DIKS: documentación de infraestructura asistida por IA desde repositorios, con notas Markdown estandarizadas y enlazadas, revisión humana y versionado Git, facilitando la transferencia de conocimiento y la consulta autónoma.",
+            "Implementación de budgets segmentados en Azure y alertas al superar el 50% del presupuesto configurado, con notificaciones por correo mediante Action Groups, mejorando la visibilidad del gasto del equipo."
           ]
         },
         {
@@ -160,29 +160,6 @@
           ]
         },
         {
-          "id": "1",
-          "title": "GitOps y entrega",
-          "note": "Versionado con Git/GitHub. Azure DevOps y Argo CD son parte del entorno de trabajo; implementación de SemaphoreUI mediante Helm.",
-          "tags": [
-            "Git",
-            "GitHub",
-            "Azure DevOps",
-            "Argo CD",
-            "Helm"
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Automatización operativa",
-          "note": "Playbooks y scripts propios para configuración de VMs, servicios IIS, certificados y tareas programadas.",
-          "tags": [
-            "Ansible",
-            "SemaphoreUI",
-            "PowerShell",
-            "Azure VM Applications"
-          ]
-        },
-        {
           "id": "3",
           "title": "Sistemas y contenedores",
           "note": "Configuración y mantenimiento de Windows Server; gestión de usuarios, GPO y políticas en Active Directory. Conocimientos de DNS y DHCP. Implementación de GLPI sobre Docker y Linux.",
@@ -208,11 +185,14 @@
           ]
         },
         {
-          "id": "4",
-          "title": "Infraestructura como código",
-          "note": "Experiencia práctica con Terraform (plan/apply) para Azure Key Vault. Familiaridad con las configuraciones del equipo y desarrollo de scripts PowerShell para Azure VM Applications.",
+          "id": "2",
+          "title": "Automatización operativa",
+          "note": "Playbooks y scripts propios para configuración de VMs, servicios IIS, certificados y tareas programadas.",
           "tags": [
-            "Terraform"
+            "Ansible",
+            "SemaphoreUI",
+            "PowerShell",
+            "Azure VM Applications"
           ]
         },
         {
@@ -226,6 +206,26 @@
             "API",
             "Webhooks",
             "GLPI"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Infraestructura como código",
+          "note": "Experiencia práctica con Terraform (plan/apply) para Azure Key Vault. Familiaridad con las configuraciones del equipo y desarrollo de scripts PowerShell para Azure VM Applications.",
+          "tags": [
+            "Terraform"
+          ]
+        },
+        {
+          "id": "1",
+          "title": "GitOps y entrega",
+          "note": "Versionado con Git/GitHub. Azure DevOps y Argo CD son parte del entorno de trabajo; implementación de SemaphoreUI mediante Helm.",
+          "tags": [
+            "Git",
+            "GitHub",
+            "Azure DevOps",
+            "Argo CD",
+            "Helm"
           ]
         },
         {
@@ -383,7 +383,7 @@
           "Cloud &",
           "automation."
         ],
-        "intro": "I administer infrastructure and develop automation to make team operations simpler, more centralized and consistent.",
+        "intro": "I administer Microsoft infrastructure and Azure, automate operational tasks and contribute to service continuity.",
         "location": "Buenos Aires, Argentina",
         "viewWork": "View experience",
         "download": "Download CV",
@@ -427,7 +427,7 @@
         "home": "Joseph Gavidia — home",
         "footer": "Cloud administration · Infrastructure · Automation",
         "updated": "Content reviewed: October 2026",
-        "resumeTitle": "Cloud Administration | Microsoft Azure & Automation",
+        "resumeTitle": "Sysadmin SSR | Microsoft Infrastructure & Azure",
         "resumeSections": [
           "Professional profile",
           "Professional experience",
@@ -438,7 +438,7 @@
         "back": "Back to website",
         "resumeProjectsTitle": "Selected personal project"
       },
-      "profile": "Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.",
+      "profile": "Mid-level systems administrator (Sysadmin SSR) with experience in Microsoft infrastructure and Azure, operational automation and service continuity. Windows Server, Active Directory, GPO, Microsoft 365 and Entra ID administration. Designed Azure Backup policies and redundancy and performed restores and Cross Region Restore (CRR), with additional Veeam experience. Developed PowerShell and Ansible automation, with experience in infrastructure monitoring and technical documentation.",
       "jobs": [
         {
           "id": "yoizen",
@@ -448,13 +448,13 @@
           "end": null,
           "period": "October 2024–present",
           "bullets": [
-            "Administer compute resources and Microsoft Entra ID users, perform asset surveys, follow up on incidents and review vulnerabilities. Team monitoring environment: Grafana.",
-            "Provisioned and configured an Azure VM for Microsoft SQL Server workloads according to DBA requirements, adjusting capacity and licensing to support a workload migration.",
-            "Implemented SemaphoreUI using Helm and an external database. Developed Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, enabling more centralized and standardized team operations.",
-            "Developed and reviewed PowerShell scripts delivered through Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.",
-            "Implemented a corporate helpdesk using GLPI on Docker and Linux, centralizing ticket intake. Configured Google SSO, 2FA, request forms, permissions, SLAs and approvals; integrated Azure Logic Apps, webhooks and APIs with Google Chat notifications and Google Calendar event creation for approved upgrades.",
-            "Designed and developed DIKS, an AI-assisted infrastructure documentation system that analyzes repositories and generates standardized, linked Markdown notes, with human review and Git versioning, supporting knowledge sharing and self-directed access to documentation.",
-            "Implemented segmented Azure budgets and alerts when spending exceeded 50% of the configured budget, with email notifications through Action Groups, improving the team's visibility into cloud costs."
+            "Administer Azure compute resources and Entra ID users; asset surveys, incident follow-up and vulnerability reviews. Team monitoring environment: Grafana.",
+            "Provisioned and configured an Azure VM for Microsoft SQL Server workloads to DBA requirements, adjusting capacity and licensing to support a migration.",
+            "Implemented SemaphoreUI with Helm and an external database; authored Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, centralizing team operations.",
+            "Developed and reviewed PowerShell scripts for Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.",
+            "Implemented GLPI on Docker/Linux as a corporate helpdesk to centralize tickets. Configured Google SSO, 2FA, forms, permissions, SLAs and approvals; integrated Logic Apps, APIs and webhooks with Google Chat and Google Calendar events for approved upgrades.",
+            "Designed and developed DIKS, an AI-assisted infrastructure documentation system generating standardized, linked Markdown notes from repositories, with human review and Git versioning, supporting knowledge sharing and self-directed access.",
+            "Implemented segmented Azure budgets and alerts above 50% of the configured budget, with email notifications through Action Groups, improving team visibility into spending."
           ]
         },
         {
@@ -508,29 +508,6 @@
           ]
         },
         {
-          "id": "1",
-          "title": "GitOps and delivery",
-          "note": "Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.",
-          "tags": [
-            "Git",
-            "GitHub",
-            "Azure DevOps",
-            "Argo CD",
-            "Helm"
-          ]
-        },
-        {
-          "id": "2",
-          "title": "Operational automation",
-          "note": "Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.",
-          "tags": [
-            "Ansible",
-            "SemaphoreUI",
-            "PowerShell",
-            "Azure VM Applications"
-          ]
-        },
-        {
           "id": "3",
           "title": "Systems and containers",
           "note": "Windows Server configuration and maintenance; management of Active Directory users, GPOs and policies. Knowledge of DNS and DHCP. GLPI implementation on Docker and Linux.",
@@ -556,11 +533,14 @@
           ]
         },
         {
-          "id": "4",
-          "title": "Infrastructure as code",
-          "note": "Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.",
+          "id": "2",
+          "title": "Operational automation",
+          "note": "Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.",
           "tags": [
-            "Terraform"
+            "Ansible",
+            "SemaphoreUI",
+            "PowerShell",
+            "Azure VM Applications"
           ]
         },
         {
@@ -574,6 +554,26 @@
             "API",
             "Webhooks",
             "GLPI"
+          ]
+        },
+        {
+          "id": "4",
+          "title": "Infrastructure as code",
+          "note": "Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.",
+          "tags": [
+            "Terraform"
+          ]
+        },
+        {
+          "id": "1",
+          "title": "GitOps and delivery",
+          "note": "Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.",
+          "tags": [
+            "Git",
+            "GitHub",
+            "Azure DevOps",
+            "Argo CD",
+            "Helm"
           ]
         },
         {

@@ -1,23 +1,23 @@
 Joseph Gavidia
-Cloud Administration | Microsoft Azure & Automation
+Sysadmin SSR | Microsoft Infrastructure & Azure
 joseph.gavidiaa@gmail.com | +54 11 3888 4481 | Buenos Aires, Argentina
 https://linkedin.com/in/soporte-infraestructura-joseph-gavidia
 https://github.com/Josephuu
 Web CV: https://josephuu.github.io/webcv/?lang=en
 
 Professional profile
-Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.
+Mid-level systems administrator (Sysadmin SSR) with experience in Microsoft infrastructure and Azure, operational automation and service continuity. Windows Server, Active Directory, GPO, Microsoft 365 and Entra ID administration. Designed Azure Backup policies and redundancy and performed restores and Cross Region Restore (CRR), with additional Veeam experience. Developed PowerShell and Ansible automation, with experience in infrastructure monitoring and technical documentation.
 
 Professional experience
 Systems Administrator (Sysadmin SSR) — Yoizen
 October 2024–present
-- Administer compute resources and Microsoft Entra ID users, perform asset surveys, follow up on incidents and review vulnerabilities. Team monitoring environment: Grafana.
-- Provisioned and configured an Azure VM for Microsoft SQL Server workloads according to DBA requirements, adjusting capacity and licensing to support a workload migration.
-- Implemented SemaphoreUI using Helm and an external database. Developed Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, enabling more centralized and standardized team operations.
-- Developed and reviewed PowerShell scripts delivered through Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.
-- Implemented a corporate helpdesk using GLPI on Docker and Linux, centralizing ticket intake. Configured Google SSO, 2FA, request forms, permissions, SLAs and approvals; integrated Azure Logic Apps, webhooks and APIs with Google Chat notifications and Google Calendar event creation for approved upgrades.
-- Designed and developed DIKS, an AI-assisted infrastructure documentation system that analyzes repositories and generates standardized, linked Markdown notes, with human review and Git versioning, supporting knowledge sharing and self-directed access to documentation.
-- Implemented segmented Azure budgets and alerts when spending exceeded 50% of the configured budget, with email notifications through Action Groups, improving the team's visibility into cloud costs.
+- Administer Azure compute resources and Entra ID users; asset surveys, incident follow-up and vulnerability reviews. Team monitoring environment: Grafana.
+- Provisioned and configured an Azure VM for Microsoft SQL Server workloads to DBA requirements, adjusting capacity and licensing to support a migration.
+- Implemented SemaphoreUI with Helm and an external database; authored Ansible playbooks for VM configuration and information gathering, scheduled IIS site and service restarts, log cleanup and certificate renewal, centralizing team operations.
+- Developed and reviewed PowerShell scripts for Azure VM Applications to install software and apply configurations during Terraform-based VM provisioning, avoiding a separate manual SemaphoreUI run for those tasks.
+- Implemented GLPI on Docker/Linux as a corporate helpdesk to centralize tickets. Configured Google SSO, 2FA, forms, permissions, SLAs and approvals; integrated Logic Apps, APIs and webhooks with Google Chat and Google Calendar events for approved upgrades.
+- Designed and developed DIKS, an AI-assisted infrastructure documentation system generating standardized, linked Markdown notes from repositories, with human review and Git versioning, supporting knowledge sharing and self-directed access.
+- Implemented segmented Azure budgets and alerts above 50% of the configured budget, with email notifications through Action Groups, improving team visibility into spending.
 
 Systems Administrator — INTER TIC
 October 2023–October 2024
@@ -36,12 +36,12 @@ October 2020–September 2021
 
 Technical skills
 Cloud and identity: Microsoft Azure, AKS, Kubernetes, Microsoft Entra ID, Microsoft 365. Compute and user administration in Azure and Entra ID. AKS/Kubernetes are part of the team platform.
-GitOps and delivery: Git, GitHub, Azure DevOps, Argo CD, Helm. Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.
-Operational automation: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.
 Systems and containers: Windows Server, Active Directory, GPO, DNS, DHCP, IIS, Linux, Docker. Windows Server configuration and maintenance; management of Active Directory users, GPOs and policies. Knowledge of DNS and DHCP. GLPI implementation on Docker and Linux.
 Backup and disaster recovery: Veeam, Azure Backup, CRR. Experience with Veeam. Designed Azure Backup policies and redundancy; performed restores and Cross Region Restore (CRR).
-Infrastructure as code: Terraform. Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.
+Operational automation: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Authored playbooks and scripts for VM configuration, IIS services, certificates and scheduled tasks.
 Monitoring and integrations: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana and Checkmk across different roles. Authored helpdesk integrations with Logic Apps, APIs and webhooks.
+Infrastructure as code: Terraform. Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.
+GitOps and delivery: Git, GitHub, Azure DevOps, Argo CD, Helm. Version control with Git/GitHub. Azure DevOps and Argo CD are part of the working environment; SemaphoreUI implementation using Helm.
 AI and documentation: OpenCode, Markdown, Zettelkasten, Git. Agent-assisted documentation workflows, linked notes and human review before versioning.
 
 Selected personal project
