@@ -3,6 +3,7 @@ Cloud Administration | Microsoft Azure & Automation
 joseph.gavidiaa@gmail.com | +54 11 3888 4481 | Buenos Aires, Argentina
 https://linkedin.com/in/soporte-infraestructura-joseph-gavidia
 https://github.com/Josephuu
+Web CV: https://josephuu.github.io/webcv/?lang=en
 
 Professional profile
 Systems administrator with a background in technical support, infrastructure administration and operational automation. Experience with Microsoft Azure, Windows Server, Microsoft Entra ID, Ansible and PowerShell. Working environment includes AKS/Kubernetes, Argo CD, Azure DevOps and Git/GitHub repositories. Implemented shared operational tools, Azure Logic Apps integrations and AI-assisted documentation workflows. Focused on cloud administration, operational standardization, knowledge sharing and cloud cost visibility.

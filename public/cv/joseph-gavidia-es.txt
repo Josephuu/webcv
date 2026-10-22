@@ -3,6 +3,7 @@ Administración Cloud | Microsoft Azure y automatización
 joseph.gavidiaa@gmail.com | +54 11 3888 4481 | Buenos Aires, Argentina
 https://linkedin.com/in/soporte-infraestructura-joseph-gavidia
 https://github.com/Josephuu
+CV web: https://josephuu.github.io/webcv/
 
 Perfil profesional
 Administrador de sistemas SSR con trayectoria en soporte técnico, administración de infraestructura y automatización de tareas operativas. Experiencia en Microsoft Azure, Windows Server, Microsoft Entra ID y desarrollo de automatizaciones con Ansible y PowerShell. Entorno de trabajo con AKS/Kubernetes, Argo CD, Azure DevOps y repositorios Git/GitHub. Implementación de herramientas de uso compartido, integraciones con Azure Logic Apps y procesos de documentación asistida por IA. Orientado a administración cloud, con foco en estandarización operativa, transferencia de conocimiento y visibilidad del gasto.
