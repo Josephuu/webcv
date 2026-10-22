@@ -38,7 +38,7 @@ Cloud e identidades: Microsoft Azure, AKS, Kubernetes, Microsoft Entra ID, Micro
 GitOps y entrega: Git, GitHub, Azure DevOps, Argo CD, Helm. Versionado con Git/GitHub. Azure DevOps y Argo CD son parte del entorno de trabajo; implementación de SemaphoreUI mediante Helm.
 Automatización operativa: Ansible, SemaphoreUI, PowerShell, Azure VM Applications. Playbooks y scripts propios para configuración de VMs, servicios IIS, certificados y tareas programadas.
 Sistemas y contenedores: Windows Server, IIS, Linux, Docker. Configuración y mantenimiento de Windows Server. Implementación de GLPI sobre Docker y Linux.
-Infraestructura como código: Terraform. Familiaridad con las configuraciones Terraform del equipo. Mi aporte propio son los scripts PowerShell de las VM Applications utilizados durante el aprovisionamiento.
+Infraestructura como código: Terraform. Experiencia práctica con Terraform (plan/apply) para Azure Key Vault. Familiaridad con las configuraciones del equipo y desarrollo de scripts PowerShell para Azure VM Applications.
 Monitoreo e integraciones: Grafana, Checkmk, Azure Logic Apps, API, Webhooks, GLPI. Grafana y Checkmk según el entorno. Integraciones propias con Logic Apps, APIs y webhooks para el helpdesk.
 IA y documentación: OpenCode, Markdown, Zettelkasten, Git. Flujos de documentación asistida por agentes, notas enlazadas y revisión humana antes del versionado.
 

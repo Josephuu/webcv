@@ -195,7 +195,7 @@
         {
           "id": "4",
           "title": "Infraestructura como código",
-          "note": "Familiaridad con las configuraciones Terraform del equipo. Mi aporte propio son los scripts PowerShell de las VM Applications utilizados durante el aprovisionamiento.",
+          "note": "Experiencia práctica con Terraform (plan/apply) para Azure Key Vault. Familiaridad con las configuraciones del equipo y desarrollo de scripts PowerShell para Azure VM Applications.",
           "tags": [
             "Terraform"
           ]
@@ -529,7 +529,7 @@
         {
           "id": "4",
           "title": "Infrastructure as code",
-          "note": "Familiarity with the team's Terraform configurations. My own contribution is the PowerShell scripts for VM Applications used during provisioning.",
+          "note": "Hands-on Terraform experience (plan/apply) for Azure Key Vault. Familiarity with the team's configurations and development of PowerShell scripts for Azure VM Applications.",
           "tags": [
             "Terraform"
           ]
